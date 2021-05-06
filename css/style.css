@@ -1,0 +1,60 @@
+.blue {
+    color:lightskyblue;
+}
+
+
+
+h2 {
+    color:lightskyblue;
+}
+
+.box{
+    height: 200px;
+    width: 600px;
+    padding: 20px;
+    margin: 20px;
+    border:20x;
+    font-family: "Times New Roman", Times, serif;
+    color: aliceblue;
+}
+
+body {
+    background-color:rgba(0, 0, 0, 0.822);
+    color: aliceblue;
+}
+
+header{
+    background-color: rgba(4, 242, 250, 0.74);
+}
+
+
+.icon {
+    border-radius: 50%;
+  }
+
+
+.box2 {
+    height: 60px;
+    width: 600px;
+    padding: 20px;
+    margin: 20px;
+    border:20x;
+    font-family: "Times New Roman", Times, serif;
+    color: aliceblue;
+}
+
+.bold {
+    font-weight: bold;
+}
+.whitep {
+    font-family: "Times New Roman", Times, serif;
+    color: aliceblue;
+}
+
+.ideation{
+    height: 1000px;
+    width: 1600px;
+    padding: 30px;
+    margin: 30px;
+    border:30x;
+}
